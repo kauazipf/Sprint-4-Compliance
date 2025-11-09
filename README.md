@@ -60,7 +60,6 @@ Foram desenvolvidos **4 casos de testes automatizados** para validar as funciona
 
 **Nomes:**
 - Kauã Fermino Zipf - RM558957
-- Caetano Matos Penafiel - RM
-- Victor Egidio Lira - RM
-**Instituição:** [Nome da instituição]  
-**Data:** Novembro de 2025
+- Caetano Matos Penafiel - RM557984
+- Victor Egidio Lira - RM556653
+
